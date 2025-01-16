@@ -2,7 +2,7 @@ meme_dict = {
             "CRINGE": "Algo excepcionalmente raro o embarazoso",
             "LOL": "Una respuesta común a algo gracioso",
             'OMG': 'Expresion de asombro',
-            'NASHE': 'Algo asombroso o divertido esta pasando xd',
+            'NASHE': 'Algo del pintor',
             'WTF': 'Que carajos?',
             'AESTHETIC': 'Expresion usada para definir cierto estilo',
             'GRWM': 'Expresion usada para: Alistate conmigo',
